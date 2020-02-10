@@ -1,4 +1,4 @@
-#!/Users/msjahid/Documents/ml-app-django/venv/bin/python
+#!/Users/msjahid/Documents/ml-app/venv/bin/python
 
 import sys
 import getopt

@@ -1,4 +1,4 @@
-#!/Users/msjahid/Documents/ml-app-django/venv/bin/python3
+#!/Users/msjahid/Documents/ml-app/venv/bin/python3
 # -*- coding: utf-8 -*-
 import re
 import sys
